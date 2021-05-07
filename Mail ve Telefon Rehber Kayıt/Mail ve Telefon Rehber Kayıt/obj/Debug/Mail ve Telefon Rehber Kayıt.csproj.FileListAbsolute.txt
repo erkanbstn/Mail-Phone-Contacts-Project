@@ -1,0 +1,10 @@
+C:\Users\profe\Desktop\Visual Projeler\Mail ve Telefon Rehber Kayıt\Mail ve Telefon Rehber Kayıt\bin\Debug\Mail ve Telefon Rehber Kayıt.exe.config
+C:\Users\profe\Desktop\Visual Projeler\Mail ve Telefon Rehber Kayıt\Mail ve Telefon Rehber Kayıt\bin\Debug\Mail ve Telefon Rehber Kayıt.exe
+C:\Users\profe\Desktop\Visual Projeler\Mail ve Telefon Rehber Kayıt\Mail ve Telefon Rehber Kayıt\bin\Debug\Mail ve Telefon Rehber Kayıt.pdb
+C:\Users\profe\Desktop\Visual Projeler\Mail ve Telefon Rehber Kayıt\Mail ve Telefon Rehber Kayıt\obj\Debug\Mail ve Telefon Rehber Kayıt.csprojAssemblyReference.cache
+C:\Users\profe\Desktop\Visual Projeler\Mail ve Telefon Rehber Kayıt\Mail ve Telefon Rehber Kayıt\obj\Debug\Mail_ve_Telefon_Rehber_Kayıt.Form1.resources
+C:\Users\profe\Desktop\Visual Projeler\Mail ve Telefon Rehber Kayıt\Mail ve Telefon Rehber Kayıt\obj\Debug\Mail_ve_Telefon_Rehber_Kayıt.Properties.Resources.resources
+C:\Users\profe\Desktop\Visual Projeler\Mail ve Telefon Rehber Kayıt\Mail ve Telefon Rehber Kayıt\obj\Debug\Mail ve Telefon Rehber Kayıt.csproj.GenerateResource.cache
+C:\Users\profe\Desktop\Visual Projeler\Mail ve Telefon Rehber Kayıt\Mail ve Telefon Rehber Kayıt\obj\Debug\Mail ve Telefon Rehber Kayıt.csproj.CoreCompileInputs.cache
+C:\Users\profe\Desktop\Visual Projeler\Mail ve Telefon Rehber Kayıt\Mail ve Telefon Rehber Kayıt\obj\Debug\Mail ve Telefon Rehber Kayıt.exe
+C:\Users\profe\Desktop\Visual Projeler\Mail ve Telefon Rehber Kayıt\Mail ve Telefon Rehber Kayıt\obj\Debug\Mail ve Telefon Rehber Kayıt.pdb
